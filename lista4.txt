@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="http://dimapro.cz:8080/images/7379cee65acde41f082ee33d89f6dfb1.png" group-title="SPAIN",LA 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38378
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA2.png" group-title="SPAIN",LA 2
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38379
+#EXTINF:-1 tvg-id="" tvg-name="La 2 HD" tvg-logo="http://dimapro.cz:8080/images/720d80b363c380b49621e06ca855dd5b.png" group-title="SPAIN",La 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38380
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ANTENA3.png" group-title="SPAIN",ANTENA 3
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38381
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA3 HD" tvg-logo="http://dimapro.cz:8080/images/dff36a6a0aadf8e2fd4ed0f877fe9c1f.png" group-title="SPAIN",ANTENA3 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38382
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/CUATRO.png" group-title="SPAIN",CUATRO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38383
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/CUATRO%20HD.png" group-title="SPAIN",CUATRO HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38384
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/TELECINCO.png" group-title="SPAIN",TELECINCO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38385
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/TELECINCO%20HD.png" group-title="SPAIN",TELECINCO HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38386
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA%20SEXTA.png" group-title="SPAIN",LA SEXTA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38387
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA%20SEXTA%20HD.png" group-title="SPAIN",LA SEXTA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38388
+#EXTINF:-1 tvg-id="" tvg-name="### SERIES Y ENTRETENIMIENTO ###" tvg-logo="" group-title="SPAIN",### SERIES Y ENTRETENIMIENTO ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38389
+#EXTINF:-1 tvg-id="" tvg-name="C+ SERIES" tvg-logo="" group-title="SPAIN",C+ SERIES
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38390
+#EXTINF:-1 tvg-id="" tvg-name="C+ SERIES XTRA" tvg-logo="" group-title="SPAIN",C+ SERIES XTRA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38391
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SERIES MANIA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SERIES%20MANIA%20HD-314.png" group-title="SPAIN",MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38392
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SERIES%20HD.png" group-title="SPAIN",M. SERIES HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38393
+#EXTINF:-1 tvg-id="" tvg-name="M. Series Xtra HD" tvg-logo="" group-title="SPAIN",M. Series Xtra HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38394
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20A3SERIES%20TDT.png" group-title="SPAIN",A3 SERIES HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38395
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPAIN",#0 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38396
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20HD.png" group-title="SPAIN",FOX HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38397
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20LIFE.png" group-title="SPAIN",FOX LIFE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38398
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20FOX%20LIFE%20HD.png" group-title="SPAIN",FOX LIFE HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38399
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20HD.png" group-title="SPAIN",AXN HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38400
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20WHITE.png" group-title="SPAIN",AXN WHITE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38401
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AXN%20WHITE%20HD.png" group-title="SPAIN",AXN WHITE HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38402
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20TNT.png" group-title="SPAIN",TNT
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38403
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20TNT.png" group-title="SPAIN",TNT HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38404
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20COMEDY%20CENTRAL.png" group-title="SPAIN",COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38405
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20COMEDY%20CENTRAL.png" group-title="SPAIN",COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38406
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CALLE%2013.png" group-title="SPAIN",CALLE 13
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38407
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CALLE%2013.png" group-title="SPAIN",CALLE 13 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38408
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20COSMO%20TDT.png" group-title="SPAIN",COSMO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38409
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20COSMO%20TDT.png" group-title="SPAIN",COSMO HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38410
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AMC.png" group-title="SPAIN",AMC
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38411
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20AMC.png" group-title="SPAIN",AMC HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38412
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SYFY.png" group-title="SPAIN",SYFY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38413
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20SYFY.png" group-title="SPAIN",SYFY HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38414
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20FDF%20TDT.png" group-title="SPAIN",FDF
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38415
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20NEOX%20TDT.png" group-title="SPAIN",NEOX
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38416
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="SPAIN",SOMOS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38417
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20XTRM%20HD.png" group-title="SPAIN",XTRM
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38418
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20TDT%20ENERGY%20TDT.png" group-title="SPAIN",ENERGY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38419
+#EXTINF:-1 tvg-id="" tvg-name="### CINE MOVISTAR ###" tvg-logo="" group-title="SPAIN",### CINE MOVISTAR ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38420
+#EXTINF:-1 tvg-id="" tvg-name="C+ ESTRENOS" tvg-logo="" group-title="SPAIN",C+ ESTRENOS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38421
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ESTRENOS.png" group-title="SPAIN",M.ESTRENOS HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38422
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Cine Doc & Roll HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20CINE%20DOC%20&%20ROLL.png" group-title="SPAIN",Movistar Cine Doc & Roll HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38423
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH." tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20CH.png" group-title="SPAIN",DISNEY CH.
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38424
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20CH.png" group-title="SPAIN",DISNEY CH HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38425
+#EXTINF:-1 tvg-id="" tvg-name="C+ ACCION HD" tvg-logo="" group-title="SPAIN",C+ ACCION HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38426
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.COMEDIA.png" group-title="SPAIN",M.COMEDIA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38427
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DRAMA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20DRAMA.png" group-title="SPAIN",MOVISTAR DRAMA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38428
+#EXTINF:-1 tvg-id="" tvg-name="DCINEPANOL" tvg-logo="" group-title="SPAIN",DCINEPANOL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38429
+#EXTINF:-1 tvg-id="" tvg-name="C+ DCINE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DCINE.png" group-title="SPAIN",C+ DCINE HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38430
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TCM.png" group-title="SPAIN",TCM HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38431
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HOLLYWOOD.png" group-title="SPAIN",HOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38432
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HOLLYWOOD.png" group-title="SPAIN",Hollywood HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38433
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.PARAMOUNT.png" group-title="SPAIN",PARAMOUNT
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38434
+#EXTINF:-1 tvg-id="" tvg-name="M. XTRA HD" tvg-logo="" group-title="SPAIN",M. XTRA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38435
+#EXTINF:-1 tvg-id="" tvg-name="### CANALES LIGA ###" tvg-logo="" group-title="SPAIN",### CANALES LIGA ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38436
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38437
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38438
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LA%20LIGA%20TV%20BAR.png" group-title="SPAIN",LA LIGA TV BAR HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38439
+#EXTINF:-1 tvg-id="" tvg-name="M Liga de Campeones HD" tvg-logo="http://dimapro.cz:8080/images/3a7de759a894da556fd7f1870462badd.png" group-title="SPAIN",M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38440
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 1 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20.png" group-title="SPAIN",M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38441
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 2  HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%202.png" group-title="SPAIN",M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38442
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 3 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%203.png" group-title="SPAIN",M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38443
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 4 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%204.png" group-title="SPAIN",M. Liga de campeones 4 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38444
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 5 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%205.png" group-title="SPAIN",M. Liga de campeones 5 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38445
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 6 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%206.png" group-title="SPAIN",M. Liga de campeones 6 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38446
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 7 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%207.png" group-title="SPAIN",M. Liga de campeones 7 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38447
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de campeones 8 HD (Solo Eventos)" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20LA%20LIGA%208.png" group-title="SPAIN",M. Liga de campeones 8 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38448
+#EXTINF:-1 tvg-id="" tvg-name="###  M  DEPORTES ###" tvg-logo="" group-title="SPAIN",###  M  DEPORTES ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38449
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38450
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%201.png" group-title="SPAIN",M. DEPORTE 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38451
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE 2 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DEPORTES%202.png" group-title="SPAIN",M. DEPORTE 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38452
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+ F1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",Movistar+ F1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38453
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.%20GOLF.png" group-title="SPAIN",M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38454
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BARCA%20TV.png" group-title="SPAIN",BARCA TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38455
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.REAL%20MADRID%20TV.png" group-title="SPAIN",Realmadrid TV HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38456
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%20MEGA%20TDT.png" group-title="SPAIN",mega
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38457
+#EXTINF:-1 tvg-id="" tvg-name="C+ FUTBOL HD" tvg-logo="" group-title="SPAIN",C+ FUTBOL HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38458
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.GOL%20TV.png" group-title="SPAIN",GOL TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38459
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38460
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%201%20.png" group-title="SPAIN",EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38461
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.EUROSPORT%202%20.png" group-title="SPAIN",Eurosport 2
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38462
+#EXTINF:-1 tvg-id="" tvg-name="M.Liga De Campeones HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.LIGA%20DE%20CAMPEONES.png" group-title="SPAIN",M.Liga De Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38463
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MOTOGP.png" group-title="SPAIN",M.MOTOGP HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38464
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.F1.png" group-title="SPAIN",M.FORMULA 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38465
+#EXTINF:-1 tvg-id="" tvg-name="tdp HD" tvg-logo="" group-title="SPAIN",tdp HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38466
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%201.png" group-title="SPAIN",DAZN 1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38469
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DAZN%202.png" group-title="SPAIN",DAZN 2
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38470
+#EXTINF:-1 tvg-id="" tvg-name="###  DOCUMENTALES  ###" tvg-logo="" group-title="SPAIN",###  DOCUMENTALES  ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38474
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20HD.png" group-title="SPAIN",NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38475
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20HD.png" group-title="SPAIN",NAT GEOGRAPHIC
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38476
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NAT%20GEO%20GRAPHIC%20WILD.png" group-title="SPAIN",NG WILD HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38477
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.HISTORIA.png" group-title="SPAIN",HISTORIA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38478
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISCOVERY.png" group-title="SPAIN",DISCOVERY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38479
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DMAX.png" group-title="SPAIN",DMAX
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38480
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BLAZE.png" group-title="SPAIN",BLAZE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38482
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.VIAJAR.png" group-title="SPAIN",VIAJAR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38483
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.VIAJAR.png" group-title="SPAIN",VIAJAR HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38484
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+INVES" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CRIMEN+INVES.png" group-title="SPAIN",CRIMEN+INVES
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38485
+#EXTINF:-1 tvg-id="" tvg-name="###  ESTILO DE VIDA  ###" tvg-logo="" group-title="SPAIN",###  ESTILO DE VIDA  ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38486
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CANAL%20COCINA.png" group-title="SPAIN",CANAL COCINA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38487
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CANAL%20DE%20CASA.png" group-title="SPAIN",CANAL DE CASA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38488
+#EXTINF:-1 tvg-id="" tvg-name="Be Mad" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BE%20MAD.png" group-title="SPAIN",Be Mad
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38489
+#EXTINF:-1 tvg-id="" tvg-name="Be Mad tv HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BE%20MAD.png" group-title="SPAIN",Be Mad tv HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38490
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE21" tvg-logo="" group-title="SPAIN",CANAL ORBE21
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38491
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.SUNDANCE.png" group-title="SPAIN",SUNDANCE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38492
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DKISS.png" group-title="SPAIN",DKISS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38493
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CASA%20Y%20PESCA.png" group-title="SPAIN",CAZA Y PESCA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38494
+#EXTINF:-1 tvg-id="" tvg-name="CAZA y PESCA HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CASA%20Y%20PESCA.png" group-title="SPAIN",CAZA y PESCA HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38495
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="" group-title="SPAIN",IBERALIA TV FHD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38496
+#EXTINF:-1 tvg-id="" tvg-name="Toros" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TOROS.png" group-title="SPAIN",Toros
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38497
+#EXTINF:-1 tvg-id="" tvg-name="C+ TOROS HD" tvg-logo="" group-title="SPAIN",C+ TOROS HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38498
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NOVA.png" group-title="SPAIN",NOVA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38499
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DIVINITY.png" group-title="SPAIN",DIVINITY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38500
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.TEN.png" group-title="SPAIN",TEN
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38501
+#EXTINF:-1 tvg-id="" tvg-name="### INFANTILES ###" tvg-logo="" group-title="SPAIN",### INFANTILES ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38502
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BOING.png" group-title="SPAIN",BOING
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38503
+#EXTINF:-1 tvg-id="" tvg-name="CLAN  TVE" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CLAN%20TVE.png" group-title="SPAIN",CLAN  TVE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38504
+#EXTINF:-1 tvg-id="" tvg-name="Clan HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CLAN%20TVE.png" group-title="SPAIN",Clan HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38505
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.BABY%20TV.png" group-title="SPAIN",BABY TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38506
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NICK%20JR.png" group-title="SPAIN",NICK JR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38507
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CANAL%20PANDA.png" group-title="SPAIN",CANAL PANDA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38508
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NICKELODEON.png" group-title="SPAIN",NICKELODEON
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38509
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.NICKELODEON.png" group-title="SPAIN",NICKELODEON HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38510
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20JUNIOR.png" group-title="SPAIN",DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38511
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.DISNEY%20XD.png" group-title="SPAIN",DISNEY XD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38512
+#EXTINF:-1 tvg-id="" tvg-name="### MUSICA ###" tvg-logo="" group-title="SPAIN",### MUSICA ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38513
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MTV.png" group-title="SPAIN",MTV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38514
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="SPAIN",MEZZO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38515
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.MEZZO.png" group-title="SPAIN",MEZZO LIVE HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38516
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.CLASSICA.png" group-title="SPAIN",CLASSICA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38517
+#EXTINF:-1 tvg-id="" tvg-name="### AUTONOMICOS ###" tvg-logo="" group-title="SPAIN",### AUTONOMICOS ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38518
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="https://logo.ott.ma/logo/spain%20hd/CANAL%20SUR%20A.png" group-title="SPAIN",CANAL SUR A.
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38519
+#EXTINF:-1 tvg-id="" tvg-name="Aragon TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ARAGON%20TV.png" group-title="SPAIN",Aragon TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38520
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="https://logo.ott.ma/logo/spain%20hd/TV%20GALCIA.png" group-title="SPAIN",TV GALICIA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38521
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ANDALUCIA%20TV.png" group-title="SPAIN",ANDALUCIA TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38522
+#EXTINF:-1 tvg-id="" tvg-name="7RM HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/ES.%207RM%20MURCIA%20TDT.png" group-title="SPAIN",7RM HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38523
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="https://logo.ott.ma/logo/spain%20hd/24%20HORAS.png" group-title="SPAIN",24 HORAS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38524
+#EXTINF:-1 tvg-id="" tvg-name="VAMOS HD" tvg-logo="https://logo.ott.ma/logo/spain%20hd/M.VAMOS.png" group-title="SPAIN",VAMOS HD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38525
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="SPAIN",A&E
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/38526
+#EXTINF:-1 tvg-id="" tvg-name="###   Alquiler   ###" tvg-logo="" group-title="SPAIN",###   Alquiler   ###
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45843
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 1" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%201.png" group-title="SPAIN",Alquiler 1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45844
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%202.png" group-title="SPAIN",Alquiler 2
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45845
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 3" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%203.png" group-title="SPAIN",Alquiler 3
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45846
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 4" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%204.png" group-title="SPAIN",Alquiler 4
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45847
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 5" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%205.png" group-title="SPAIN",Alquiler 5
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45848
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 6" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%206.png" group-title="SPAIN",Alquiler 6
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45849
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 7" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%207.png" group-title="SPAIN",Alquiler 7
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45850
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 8" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%208.png" group-title="SPAIN",Alquiler 8
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45851
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 9" tvg-logo="https://logo.ott.ma/logo/spain%20hd/MOVISTAR+%20ALQUILER%209.png" group-title="SPAIN",Alquiler 9
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45852
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler 10" tvg-logo="" group-title="SPAIN",Alquiler 10
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/45853
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TVE_INTERNACIONAL.png" group-title="SPAIN HEVEC",TVE Internacional
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59507
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 4K" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/LA_2%20.png" group-title="SPAIN HEVEC",LA 2 4K
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59508
+#EXTINF:-1 tvg-id="" tvg-name="i24 NEWS" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/I24_NEWS.png" group-title="SPAIN HEVEC",i24 NEWS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59509
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_24_HORAS.png" group-title="SPAIN HEVEC",Canal 24 Horas
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59510
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/ANTENA_3.png" group-title="SPAIN HEVEC",ANTENA 3
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59511
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CUATRO-507.png" group-title="SPAIN HEVEC",CUATRO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59512
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TELECINCO-508.png" group-title="SPAIN HEVEC",TELECINCO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59513
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/LA_SEXTA.png" group-title="SPAIN HEVEC",LA SEXTA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59514
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TELESUR.png" group-title="SPAIN HEVEC",TELESUR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59515
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/ARAGON_TV.png" group-title="SPAIN HEVEC",ARAGON TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59516
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CLAN_TVE.png" group-title="SPAIN HEVEC",CLAN TVE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59517
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/NEOX.png" group-title="SPAIN HEVEC",NEOX
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59518
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_SUR_A.png" group-title="SPAIN HEVEC",CANAL SUR A
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59519
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/FOX_NEWS.png" group-title="SPAIN HEVEC",FOX NEWS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59520
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="http://dimapro.cz:8080/images/553648c8088b83c091b0be46f9ee7498.png" group-title="SPAIN HEVEC",NOVA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59521
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION" tvg-logo="http://dimapro.cz:8080/images/5f76b010f5c2a2d4a6206c79c48597f2.png" group-title="SPAIN HEVEC",M. ACCION
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59523
+#EXTINF:-1 tvg-id="" tvg-name="M. CINE EspaNol" tvg-logo="http://dimapro.cz:8080/images/b57cc093c4a3a0ab3147e62c24a73a50.png" group-title="SPAIN HEVEC",M. CINE EspaNol
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59524
+#EXTINF:-1 tvg-id="" tvg-name="M. CINEDOC&ROLL" tvg-logo="http://dimapro.cz:8080/images/d47ac9b16ecae92afdb31dfc6c10a1d7.png" group-title="SPAIN HEVEC",M. CINEDOC&ROLL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59525
+#EXTINF:-1 tvg-id="" tvg-name="M. COMEDIA" tvg-logo="http://dimapro.cz:8080/images/87912629710fae5b354be67181eb6841.png" group-title="SPAIN HEVEC",M. COMEDIA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59526
+#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS" tvg-logo="http://dimapro.cz:8080/images/e6054ed030a3de43e133267bce9f5ecc.png" group-title="SPAIN HEVEC",M. ESTRENOS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59527
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA" tvg-logo="http://dimapro.cz:8080/images/585e42ab2c0b3220552daccf6d343759.png" group-title="SPAIN HEVEC",M. DRAMA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59528
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIESMANIA" tvg-logo="http://dimapro.cz:8080/images/aeeb88da97567e41a7e9a3b593aaea32.png" group-title="SPAIN HEVEC",M. SERIESMANIA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59529
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://dimapro.cz:8080/images/961a014d9481db0d8b5eb5923100303c.png" group-title="SPAIN HEVEC",HOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59530
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dimapro.cz:8080/images/38d04de90f1fd3f63640f17158bbbf3e.png" group-title="SPAIN HEVEC",PARAMOUNT CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59531
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TCM.png" group-title="SPAIN HEVEC",TCM
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59532
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TNT.png" group-title="SPAIN HEVEC",TNT
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59533
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/%230.png" group-title="SPAIN HEVEC",#0
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59535
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._SERIES.png" group-title="SPAIN HEVEC",M. SERIES
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59536
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/FOX.png" group-title="SPAIN HEVEC",FOX
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59537
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/FOX_LIFE.png" group-title="SPAIN HEVEC",FOX LIFE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59538
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/AMC.png" group-title="SPAIN HEVEC",AMC
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59539
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/AXN.png" group-title="SPAIN HEVEC",AXN
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59540
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/AXN_WHITE.png" group-title="SPAIN HEVEC",AXN WHITE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59541
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_DECASA.png" group-title="SPAIN HEVEC",CANAL DECASA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59542
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/COMEDY_CONTRAL.png" group-title="SPAIN HEVEC",COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59543
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CALLE_13.png" group-title="SPAIN HEVEC",CALLE 13
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59544
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/COSMO.png" group-title="SPAIN HEVEC",COSMO
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59545
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/BE_MAD.png" group-title="SPAIN HEVEC",BE MAD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59546
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/ENERGY.png" group-title="SPAIN HEVEC",ENERGY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59547
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/SUNDANCE.png" group-title="SPAIN HEVEC",SUNDANCE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59548
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/SYFY-542.png" group-title="SPAIN HEVEC",SYFY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59549
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._DEPORTES_1.png" group-title="SPAIN HEVEC",M. DEPORTES 1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59551
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._DEPORTES.png" group-title="SPAIN HEVEC",M. DEPORTES
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59552
+#EXTINF:-1 tvg-id="" tvg-name="M. FORMULA 1" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._FORMULA_1.png" group-title="SPAIN HEVEC",M. FORMULA 1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59553
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._GOLF.png" group-title="SPAIN HEVEC",M. GOLF
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59554
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._LALIGA.png" group-title="SPAIN HEVEC",M. LALIGA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59555
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA1" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/M._LALIGA1.png" group-title="SPAIN HEVEC",M. LALIGA1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59556
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/EUROSPORT_1.png" group-title="SPAIN HEVEC",EUROSPORT 1
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59557
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/EUROSPORT_2.png" group-title="SPAIN HEVEC",EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59558
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/GOL_TV.png" group-title="SPAIN HEVEC",GOL TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59559
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/LALIGA_TV_BAR.png" group-title="SPAIN HEVEC",LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59560
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/LIGA_DE_CAMPEONES-553.png" group-title="SPAIN HEVEC",LIGA DE CAMPEONES
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59561
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/MULTIDEPORTE.png" group-title="SPAIN HEVEC",MULTIDEPORTE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59562
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/REAL_MADRID_TV.png" group-title="SPAIN HEVEC",REAL MADRID TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59563
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/BARCA_TV.png" group-title="SPAIN HEVEC",BARCA TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59564
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TELEDEPORTE.png" group-title="SPAIN HEVEC",TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59565
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/DISCOVERY_CHANNEL.png" group-title="SPAIN HEVEC",DISCOVERY CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59567
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/IBERALIA_TV.png" group-title="SPAIN HEVEC",IBERALIA TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59568
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/NAT_GEOGRAPHIC.png" group-title="SPAIN HEVEC",NAT GEOGRAPHIC
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59569
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/NAT_GEO_WILD.png" group-title="SPAIN HEVEC",NAT GEO WILD
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59570
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_COCINA.png" group-title="SPAIN HEVEC",CANAL COCINA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59571
+#EXTINF:-1 tvg-id="" tvg-name="FACTORIA DE FICCION" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/FACTORIA_DE_FICCION.png" group-title="SPAIN HEVEC",FACTORIA DE FICCION
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59572
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CRIMEN_INVESTIGATION.png" group-title="SPAIN HEVEC",CRIMEN INVESTIGACION
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59573
+#EXTINF:-1 tvg-id="" tvg-name="CAZA & PESCA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CAZA_Y_PESCA.png" group-title="SPAIN HEVEC",CAZA & PESCA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59574
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/VIAJAR.png" group-title="SPAIN HEVEC",VIAJAR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59575
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/TOROS.png" group-title="SPAIN HEVEC",TOROS
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59576
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/HISTORIA.png" group-title="SPAIN HEVEC",HISTORIA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59577
+#EXTINF:-1 tvg-id="" tvg-name="BLAZE" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/BLAZE.png" group-title="SPAIN HEVEC",BLAZE
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59578
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/BABY_TV.png" group-title="SPAIN HEVEC",BABY TV
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59580
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/BOING-572.png" group-title="SPAIN HEVEC",BOING
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59581
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_PANDA.png" group-title="SPAIN HEVEC",CANAL PANDA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59582
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/DISNEY.png" group-title="SPAIN HEVEC",DISNEY
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59583
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/DISNEY.png" group-title="SPAIN HEVEC",DISNEY CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59584
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/DISNEY_JUNIOR.png" group-title="SPAIN HEVEC",DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59585
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CANAL_ODISEA.png" group-title="SPAIN HEVEC",CANAL ODISEA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59586
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/NICK_JR.png" group-title="SPAIN HEVEC",NICK JR
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59587
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/MNICKELODEON.png" group-title="SPAIN HEVEC",NICKELODEON
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59588
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/CLASSICA.png" group-title="SPAIN HEVEC",CLASSICA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59590
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="https://logo.ott.ma/logo/spain%20uhd/MTV_ESPANA.png" group-title="SPAIN HEVEC",MTV ESPANA
+http://dimapro.cz:8080/00:1A:79:17:00:06/ziajdjjfdifjd64646/59591
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8yNSjMII4HDEi0yhvlnigiconU.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiq4Zwpma5I4dmreELj900FesWu.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbHIud9DJqcBFtbQRhrjbZOnsOq.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRdswxOdNm7DKAS7qFZuHWzSi9U.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecMSoVcI9pxavtOJ9Dd5Ehn1hUa.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zD5pi7tiiWiVVjLc9mjoBrQwKw.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNQKlO4DJMpL6YG7Ar2FBXp0e1v.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mess You Leave Behind S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utknMavxKWb2cqG6ghNTMtg9UdZ.jpg" group-title="SPANISH-SERIES",The Mess You Leave Behind S01 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbuKo1500WVqA1pCbsC2uFRiGo.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7qoDvH2CfuczXoGT48WMiT3XAt.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PRPJZxSSCrxWRcV4Oh80y2vClb.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySEzn3JgYI1wXu4mp2oPDCLKWSk.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFnBxggLMO9jV4DGj6dkZEInIHP.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPx442VpvOINcFbGqfPw3VOkYyl.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZiMBBqy6R5HfZpl9oBy0PdcEEp.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/64999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1iqDmymo2ZXPM1uBF9wRofiQKA.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voNB4IDfR16CQxC7oDajzEGRfYl.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E09
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsv08fsaVi6aQWWiJSu3otBoJj2.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E10
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIS VIS S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDKkktBbZguuBXOhD0KS9suee2P.jpg" group-title="SPANISH-SERIES",VIS VIS S01 E11
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npRQpIohHp4cMx64juNXkiNqv9E.jpg" group-title="SPANISH-SERIES",Elite S03 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmqiV2GMdWHPc5V2NNcx4MByB78.jpg" group-title="SPANISH-SERIES",Elite S03 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5J4wAXBc2t2SmXuQ29jgUPeOZW.jpg" group-title="SPANISH-SERIES",Elite S03 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlIfHQ3kgvOyCoyx2wfD0EiFfOm.jpg" group-title="SPANISH-SERIES",Elite S03 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZmFNVUjrp0kIlv0qyloJ4AeHPs.jpg" group-title="SPANISH-SERIES",Elite S03 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEfNXpzEEQkNA9N8zSjlpyC0gC5.jpg" group-title="SPANISH-SERIES",Elite S03 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20OGMbypSZwGqLzGE1G6YfAv0lG.jpg" group-title="SPANISH-SERIES",Elite S03 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdZJRuip7EIJd6FHIgk8ss0AJX9.jpg" group-title="SPANISH-SERIES",Elite S03 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k49ONKhDaBRdhh9pX9GSr9EcTJU.jpg" group-title="SPANISH-SERIES",Hache S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv3tdgwykNKoWWslxA5qAOiENjH.jpg" group-title="SPANISH-SERIES",Hache S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgXfQnSu8KeOnmQwc7QzjX2vg1X.jpg" group-title="SPANISH-SERIES",Hache S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wnCleZyMGEcgz8Y5GYT9e3PE8Z.jpg" group-title="SPANISH-SERIES",Hache S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Jt1qThUIYq0XmMnLKse4Qivxv.jpg" group-title="SPANISH-SERIES",Hache S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPjZkg8cFeiaYpHuoFhIG6tIwKZ.jpg" group-title="SPANISH-SERIES",Hache S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAzYIAlIQFJLG38yr3Oq39FNhtN.jpg" group-title="SPANISH-SERIES",Hache S01 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JE5HUZZjyPSBwz3dvlgZB2HEq6.jpg" group-title="SPANISH-SERIES",Hache S01 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XcHx2JiBNDyDiPLSAyxnoxdNJx.jpg" group-title="SPANISH-SERIES",30 Coins S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2Q3cjux6zVIPlpfbzx9feCLMIQ.jpg" group-title="SPANISH-SERIES",30 Coins S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzwMOd3LWQkneTx82n3qnQgo8vY.jpg" group-title="SPANISH-SERIES",30 Coins S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO62DrL07DEhjWJtEGQsXWMH2UD.jpg" group-title="SPANISH-SERIES",30 Coins S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smBtHm1uCnZoweh0NrXKrj38vma.jpg" group-title="SPANISH-SERIES",30 Coins S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2CmUfHZ6a0AK0ue8VKFnVCGYYH.jpg" group-title="SPANISH-SERIES",30 Coins S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puCKq5qdS4luiSL1CqCU9EVLXyE.jpg" group-title="SPANISH-SERIES",30 Coins S01 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Coins S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyONiZWsW8g5LDot0EXcqRBzD2R.jpg" group-title="SPANISH-SERIES",30 Coins S01 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cid S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ea2kWu6s3Nm2lw5BvJJ3t3kDY.jpg" group-title="SPANISH-SERIES",El Cid S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cid S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYhqPbXDUPqtha9LZJUndqkyLFf.jpg" group-title="SPANISH-SERIES",El Cid S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cid S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMC6IgzdXTHO2QPLiEXvr0K2zgi.jpg" group-title="SPANISH-SERIES",El Cid S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cid S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MvPOmpHgUi809SrNaCvwdSXENw.jpg" group-title="SPANISH-SERIES",El Cid S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cid S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fc2uGpe3fdVckmd7KHUMuZYgLu3.jpg" group-title="SPANISH-SERIES",El Cid S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebgSmgQtRdOgeTt4vHL8wnSH67y.jpg" group-title="SPANISH-SERIES",La casa de papel S04 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/art0ztYTWnbIrxWFSV5FAIZxTM6.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DNdvIeWUsmGoM0R6dLDsvBig1i.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzYvI9UmHvjljl1CL7gbPbMLFPQ.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHe8InPUgHTflZPiWo1hNfKbTd.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qngzip8UEaSlxMRXvcpPtHAi3l.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYBObDtSftuz4azGfqCGAT8GuL8.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhMgH9MjFNnaaSkvY7OfsYLX2la.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E07
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gQQ9pPEnPZB9Y1qe3X8UrVKOly.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E08
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF8ilMiAOfoxhJHT51qjILOkGPr.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E09
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Sara? S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtAq0imdWkOhjxfjIjRFyXj71JE.jpg" group-title="SPANISH-SERIES",Who Killed Sara? S01 E10
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS3IiC9yhKbD5vkOOdKZdc1Yb4o.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E01
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SdwuNUfVqTEvHrV3kdvpjtelRe.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E02
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbXMlQNCYEVcn6EdyA4GH21tsMw.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E03
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11xPwauTrs0QA665KoSfhczeJQk.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E04
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp4MP9heucm8UU6Pz14ivdGCpTC.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E05
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Heist S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shh3sQQ9JOj2PaVSvEmaCdSRR1X.jpg" group-title="SPANISH-SERIES",The Great Heist S01 E06
+http://dimapro.cz:8080/series/00:1A:79:17:00:06/ziajdjjfdifjd64646/65017.mp4
+
+https://raw.githubusercontent.com/dubidios69/dubiptv/main/lista.m3u
