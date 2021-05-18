@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="## GENERALISTAS ###" tvg-logo="" group-title="SPAIN",## GENERALISTAS ###
-http://dimapro.cz:8080/00:1A:79:17:00:2B/ziajdjjfdifjd64646/38377
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="http://dimapro.cz:8080/images/7379cee65acde41f082ee33d89f6dfb1.png" group-title="SPAIN",LA 1 HD
 http://dimapro.cz:8080/00:1A:79:17:00:2B/ziajdjjfdifjd64646/38378
 #EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://logo.ott.ma/logo/spain%20hd/LA2.png" group-title="SPAIN",LA 2
